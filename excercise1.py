@@ -1,5 +1,5 @@
-# Python_Basic
-x=5
-Print(x)
-x=x+1
-print(x)
+#Program to Enter and display name
+
+name=input('What is your name? ')
+print('Hello',name,', How are you? ')
+
